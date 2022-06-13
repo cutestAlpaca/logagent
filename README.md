@@ -1,1 +1,4 @@
 # logagent
+docker
+
+zookeeper + kafka
